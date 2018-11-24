@@ -1,0 +1,3 @@
+[submodule "dependencies/click"]
+	path = dependencies/click
+	url = https://github.com/pallets/click
